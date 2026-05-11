@@ -1,0 +1,10 @@
+build/
+build-*/
+*.pro.user
+*.user
+CMakeCache.txt
+CMakeFiles/
+*.o
+*.obj
+*.exe
+*.dll

@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/icons/alarm.png</file>
+        <file>assets/icons/clock.png</file>
+        <file>assets/icons/database.png</file>
+        <file>assets/icons/document.png</file>
+        <file>assets/icons/film-reel.png</file>
+        <file>assets/icons/package.png</file>
+        <file>assets/icons/profile.png</file>
+        <file>assets/icons/settings.png</file>
+        <file>assets/icons/visualization.png</file>
+        <file>assets/icons/warning.png</file>
+        <file>sadf.qml</file>
+    </qresource>
+</RCC>
